@@ -1,0 +1,20 @@
+{
+  "name": "clase5-vercel-ai-sdk-agent",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "bun src/agent.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^4.0.106",
+    "ai": "^7.0.158",
+    "dotenv": "^18.0.9",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2",
+    "@types/bun": "latest"
+  }
+}

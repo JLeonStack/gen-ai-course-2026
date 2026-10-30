@@ -1,2 +1,7 @@
 .venv/
 .env
+node_modules/
+clase_5/workspace/
+__pycache__/
+
+diagramas/

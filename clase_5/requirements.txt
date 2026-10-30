@@ -1,2 +1,4 @@
-openai>=2.38.0
+openai>=2.45.0
 python-dotenv>=1.0.0
+langchain[openai]>=1.4.7
+deepagents>=0.7.32
